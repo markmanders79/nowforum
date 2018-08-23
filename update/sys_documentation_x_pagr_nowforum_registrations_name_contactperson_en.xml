@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="name_contactperson" label="Name contactperson" language="en" table="x_pagr_nowforum_registrations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name_contactperson</element>
+            <help/>
+            <hint/>
+            <label>Name contactperson</label>
+            <language>en</language>
+            <name>x_pagr_nowforum_registrations</name>
+            <plural>Name contactpersons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mark.elbertsen</sys_created_by>
+            <sys_created_on>2017-10-07 08:27:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1f84071bdbe5c700e8937e400f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name contactperson</sys_name>
+            <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_pagr_nowforum_registrations_name_contactperson_en</sys_update_name>
+            <sys_updated_by>mark.elbertsen</sys_updated_by>
+            <sys_updated_on>2017-10-07 08:27:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

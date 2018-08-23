@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="followed_up" label="Followed up" language="en" table="x_pagr_nowforum_registrations">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>followed_up</element>
+            <help/>
+            <hint/>
+            <label>Followed up</label>
+            <language>en</language>
+            <name>x_pagr_nowforum_registrations</name>
+            <plural>Followed ups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mark.elbertsen</sys_created_by>
+            <sys_created_on>2017-10-12 05:52:53</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>c2311449dbfd8b00e8937e400f96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Followed up</sys_name>
+            <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_pagr_nowforum_registrations_followed_up_en</sys_update_name>
+            <sys_updated_by>mark.elbertsen</sys_updated_by>
+            <sys_updated_on>2017-10-12 05:52:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

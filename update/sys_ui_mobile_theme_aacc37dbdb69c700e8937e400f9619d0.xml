@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_theme">
+    <sys_ui_mobile_theme action="INSERT_OR_UPDATE">
+        <accent_color>#520546</accent_color>
+        <base_theme>default</base_theme>
+        <name>Paphos Group NowForum theme</name>
+        <navigation_accent_color>white</navigation_accent_color>
+        <navigation_bar_color>#520546</navigation_bar_color>
+        <navigation_bar_title/>
+        <navigation_title_color>white</navigation_title_color>
+        <sys_class_name>sys_ui_mobile_theme</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2017-10-07 12:32:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>aacc37dbdb69c700e8937e400f9619d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Paphos Group NowForum theme</sys_name>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sys_ui_mobile_theme_aacc37dbdb69c700e8937e400f9619d0</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2017-10-09 07:03:36</sys_updated_on>
+        <title_image/>
+        <toolbar_accent_color>#520546</toolbar_accent_color>
+        <toolbar_color>grey</toolbar_color>
+    </sys_ui_mobile_theme>
+</record_update>

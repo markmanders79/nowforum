@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Registrations" max_length="40" name="x_pagr_nowforum_registrations" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Already ServiceNow Customer?" max_length="40" name="already_servicenow_customer" type="boolean"/>
+        <element label="Company name" mandatory="true" max_length="100" name="company_name" type="string"/>
+        <element label="E-mail address" max_length="100" name="e_mail_address" type="string"/>
+        <element label="Followed up" max_length="40" name="followed_up" type="boolean"/>
+        <element label="Name contactperson" mandatory="true" max_length="100" name="name_contactperson" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:if (gs.hasRole(&quot;x_pagr_nowforum.registrations_user&quot;))current.spoken_with = gs.getUserID();" label="Spoken with" mandatory="true" max_length="32" name="spoken_with" reference="sys_user" reference_qual="roles=x_pagr_nowforum.registrations_user^EQ" reference_qual_condition="roles=x_pagr_nowforum.registrations_user^EQ" type="reference"/>
+        <element label="Subject &amp; Follow up" max_length="4000" name="subject_follow_up" type="string"/>
+        <element label="Telephone number" max_length="40" name="telephone_number" type="string"/>
+        <index name="index">
+            <element name="spoken_with"/>
+        </index>
+    </element>
+</database>

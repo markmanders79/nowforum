@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_pagr_nowforum_registrations</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>On create - Active is TRUE</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2018-03-15 07:08:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3476de6dbb81b00e8937e400f961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On create - Active is TRUE</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sys_script_f3476de6dbb81b00e8937e400f961977</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2018-03-15 07:08:49</sys_updated_on>
+        <template>active=true^EQ</template>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=f3476de6dbb81b00e8937e400f961977"/>
+</record_update>

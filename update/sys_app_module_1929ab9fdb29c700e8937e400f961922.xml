@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NowForum">c809e79fdb29c700e8937e400f961997</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create new</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_pagr_nowforum_registrations</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_pagr_nowforum.registrations_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2017-10-07 11:07:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1929ab9fdb29c700e8937e400f961922</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create new</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sys_app_module_1929ab9fdb29c700e8937e400f961922</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2017-10-07 11:13:44</sys_updated_on>
+        <timeline_page/>
+        <title>Create new</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Mobile</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>
