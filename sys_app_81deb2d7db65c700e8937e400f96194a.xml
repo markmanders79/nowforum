@@ -17,21 +17,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_pagr_nowforum</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000117593</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>mark.manders</sys_created_by>
         <sys_created_on>2017-10-09 05:57:40</sys_created_on>
         <sys_id>81deb2d7db65c700e8937e400f96194a</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_updated_by>mark.elbertsen</sys_updated_by>
-        <sys_updated_on>2019-05-02 11:17:28</sys_updated_on>
+        <sys_updated_on>2019-05-02 11:23:41</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>3.0.0</version>
+        <version>3.0.1</version>
     </sys_app>
 </record_update>
