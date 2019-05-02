@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>new_event_registrations</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2019-05-02 09:58:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f0c6c16bdb4933809851f9231d9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new_event_registrations</sys_name>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sp_page_f0c6c16bdb4933809851f9231d9619b9</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2019-05-02 09:58:00</sys_updated_on>
+        <title>New Event Registrations</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=f0c6c16bdb4933809851f9231d9619b9"/>
+</record_update>

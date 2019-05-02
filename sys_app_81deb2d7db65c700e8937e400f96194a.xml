@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_app">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_category>none</license_category>
         <license_model>none</license_model>
         <logo/>
         <menu/>
@@ -16,21 +17,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_pagr_nowforum</source>
-        <store_correlation_id>REPOAPP0000058691</store_correlation_id>
+        <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>mark.manders</sys_created_by>
         <sys_created_on>2017-10-09 05:57:40</sys_created_on>
         <sys_id>81deb2d7db65c700e8937e400f96194a</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_updated_by>mark.elbertsen</sys_updated_by>
-        <sys_updated_on>2018-04-18 07:55:20</sys_updated_on>
+        <sys_updated_on>2019-05-02 11:17:28</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>2.0.6</version>
+        <version>3.0.0</version>
     </sys_app>
 </record_update>

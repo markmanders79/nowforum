@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description/>
+        <icon display_value="handshake">28f3542bdb8533809851f9231d96195c</icon>
+        <name>Quint Event Registrations</name>
+        <order/>
+        <roles>x_pagr_nowforum.registrations_user</roles>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2019-05-02 06:15:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a0f358e7db8533809851f9231d961971</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Quint Event Registrations</sys_name>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sys_sg_application_a0f358e7db8533809851f9231d961971</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2019-05-02 06:52:04</sys_updated_on>
+    </sys_sg_application>
+</record_update>

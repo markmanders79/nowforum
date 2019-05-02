@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ui_mobile_home_page_section">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_home_page_section">
     <sys_ui_mobile_home_page_section action="INSERT_OR_UPDATE">
         <active>true</active>
         <hide_title>true</hide_title>
@@ -10,7 +9,7 @@
         <sys_created_on>2017-10-07 11:42:27</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>d441bfd3db69c700e8937e400f9619ec</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>NowForum</sys_name>
         <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
         <sys_policy/>
@@ -18,7 +17,7 @@
         <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
         <sys_update_name>sys_ui_mobile_home_page_section_d441bfd3db69c700e8937e400f9619ec</sys_update_name>
         <sys_updated_by>mark.elbertsen</sys_updated_by>
-        <sys_updated_on>2017-10-07 11:53:33</sys_updated_on>
+        <sys_updated_on>2018-10-19 07:46:05</sys_updated_on>
         <title>NowForum</title>
     </sys_ui_mobile_home_page_section>
 </record_update>

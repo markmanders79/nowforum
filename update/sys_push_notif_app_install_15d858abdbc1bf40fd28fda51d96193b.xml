@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-05-02 06:37:20</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>mark.elbertsen</sys_created_by>
+        <sys_created_on>2019-05-02 06:37:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>15d858abdbc1bf40fd28fda51d96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>C81D00E2357EEAE1C69AE04C4389B96C7D21E08D13034CF46FB7D1D9F56094B2</sys_name>
+        <sys_package display_value="NowForum" source="x_pagr_nowforum">81deb2d7db65c700e8937e400f96194a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NowForum">81deb2d7db65c700e8937e400f96194a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_15d858abdbc1bf40fd28fda51d96193b</sys_update_name>
+        <sys_updated_by>mark.elbertsen</sys_updated_by>
+        <sys_updated_on>2019-05-02 06:37:20</sys_updated_on>
+        <sys_user_id display_value="Mark Elbertsen">6a3d961fdbd62600016b3b4ffe961926</sys_user_id>
+        <token>C81D00E2357EEAE1C69AE04C4389B96C7D21E08D13034CF46FB7D1D9F56094B2</token>
+    </sys_push_notif_app_install>
+</record_update>

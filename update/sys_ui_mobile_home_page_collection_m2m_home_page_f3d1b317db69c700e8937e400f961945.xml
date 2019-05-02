@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ui_mobile_home_page_collection_m2m_home_page">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_home_page_collection_m2m_home_page">
     <sys_ui_mobile_home_page_collection_m2m_home_page action="INSERT_OR_UPDATE">
         <collection display_value="NowForum">d3c1b717db69c700e8937e400f96194a</collection>
         <home_page display_value="Event Registrations">a871b7d3db69c700e8937e400f961926</home_page>

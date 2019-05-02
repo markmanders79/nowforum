@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ui_mobile_home_page_m2m_home_page_section">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_home_page_m2m_home_page_section">
     <sys_ui_mobile_home_page_m2m_home_page_section action="INSERT_OR_UPDATE">
         <home_page display_value="Event Registrations">a871b7d3db69c700e8937e400f961926</home_page>
         <order>100</order>

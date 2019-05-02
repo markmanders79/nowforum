@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ui_mobile_home_page_collection">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_home_page_collection">
     <sys_ui_mobile_home_page_collection action="INSERT_OR_UPDATE">
         <active>true</active>
         <hide_favorites_page>true</hide_favorites_page>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_ui_mobile_theme">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_theme">
     <sys_ui_mobile_theme action="INSERT_OR_UPDATE">
         <accent_color>#520546</accent_color>
         <base_theme>default</base_theme>
